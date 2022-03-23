@@ -4,3 +4,5 @@ En el siguiente laboratorio se recibieron las siguientes instrucciones: El prime
 TENER EN CUENTA:
 - Al momento de realizar la práctica física se recomienda utilizar el archivo llamado: 'Laboratorio2_-_PushButtons_Fisico' así poder cargarlo en arduino y llevarlo a cabo con éxito.
 - Al momento de realizar la práctica con interfaz (contiene la interfaz y el modo consola del último requerimientod el laboratorio) se debe de cargar al Arduino el archivo llamado: 'Laboratorio2_-_Interfaz' para luego poder abrir y ejecutar el archivo 'Laboratorio2 - Push Buttons Interfaz.
+
+ENLACE DEL VIDEO EN YOUTUBE: https://youtu.be/4V3CDBuTxE4
